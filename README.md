@@ -17,6 +17,6 @@
 
 ![image](https://github.com/xhboke/COVID-19-analysis/blob/master/image/3%E5%90%84%E5%9B%BDSIR%E6%9B%B2%E7%BA%BF.png)
 
-![image](https://github.com/xhboke/COVID-19-analysis/blob/master/image/3%E5%90%84%E5%9B%BD%E8%B5%B0%E5%8A%BF.png)
+![image](https://github.com/xhboke/COVID-19-analysis/blob/master/image/1%E6%8E%A5%E8%A7%A6%E8%80%85%E6%9B%B2%E7%BA%BF.png)
 
 ![image](https://github.com/xhboke/COVID-19-analysis/blob/master/image/2%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E4%BA%BA%E6%95%B0%E5%92%8C%E6%8E%A5%E7%A7%8D%E7%8E%87%E6%8E%92%E8%A1%8C.png)
